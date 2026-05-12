@@ -1,1 +1,4 @@
-if __name__ == "__main__": print("Main branch")
+def SUMMA(A, B):
+    return A + B
+
+print(SUMMA(10, 5))
