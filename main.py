@@ -1,2 +1,1 @@
-if __name__ == "__main__":
-    print("Лабораторная работа №4: Работа с Git")
+if __name__ == "__main__": print("Main branch")
