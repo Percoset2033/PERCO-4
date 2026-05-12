@@ -1,4 +1,4 @@
-def SUMMA(A, B):
-    return A + B
+def calculate_sum(a, b):
+    return a + b
 
-print(SUMMA(10, 5))
+print(calculate_sum(10, 5))
